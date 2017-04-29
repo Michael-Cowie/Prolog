@@ -1,6 +1,6 @@
 /*
-The predicate countOccruence/2 Takes in a list as the first argument, and results in occurence of
-each letter in the second argument.
+The predicate countOccruence/2 Takes in a list as the first argument, and the in occurence of
+each letter in the second argument formatted by [(Letter, Occurence),...]
 */
 
 countOccurence([],[]).
